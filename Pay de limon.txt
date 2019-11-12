@@ -1,1 +1,2 @@
 Pay de limon
+agregar comando gitignore
