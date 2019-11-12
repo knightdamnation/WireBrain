@@ -1,0 +1,40 @@
+Nombre: Christian Carrasco Acosta
+	Grupo: Matutino A
+	Fecha: 11/12/2019
+	
+	GIT
+	
+	Cual es la diferencia entre git y GitHUB?
+  Git es un sistema de control de revisiones, una herramienta para administrar el historial del código fuente. GitHub es un servicio de alojamiento para repositorios Git.
+  
+	En cuantos y cuales estados puede estar un archivo?
+  Git tiene tres estados principales en los que se pueden encontrar tus archivos: confirmado (committed), modificado (modified), y preparado (staged).
+  
+	Para que sirve el comando "git add ." ?
+  git add . 
+  agrega todos los archivos y nuevos archivos en el directorio base y todos los subdirectorios al estado de staging para prepararse para el git commit con exception de git ignore
+	Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+  
+	Cual es el comando para crear una rama en mi repositorio?
+  git init
+
+	JIRA
+	
+	Defina lo que es un issue:
+  issue es un  codigo que implementas para facilitar la busqueda o seleccion de los trabajos que necesitas traer para revicion
+  
+	En kanban y scrum, cuales son las columnas default de un tablero?
+  verticales to do, in progress, Done
+  
+	Como se selecciona un Dashboard para mostrarse en la pantalla de bienvenida?
+  en la pestaña de dashboard a lado de jora software arriba lado izq.
+	
+	Jenkins
+	
+	Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+  
+	Como se installa Jenkins en un sistema linux?
+   apt-get update &amp;&amp; apt-get install -y jenkins
+  
+	Cual es la relacion entre Hudson y Jenkins? 
+  Hudson y jenkins son lo mismo solo que Hudson es de propiedad de Oracle y jenkins es software libre. 
